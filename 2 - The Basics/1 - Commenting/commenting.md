@@ -38,3 +38,9 @@ You can also use comments to stop code from executing!
 console.log("This code will execute!")
 // console.log("This code won't!")
 ```
+
+Another example of commenting would be to describe what you are doing:
+```js
+// Prints "Hello World!" to the console.
+console.log("Hello World!")
+```
