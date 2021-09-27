@@ -27,7 +27,8 @@ I created a small JavaScript file:
 console.log("Hello World!")
 ```
 
-And invoked it in the HTML page inside the body:
+
+And invoked it in the HTML page inside the body (and made the background black):
 ```html 
 <!-- load the JS file. -->
 <script src="index.js"></script>
