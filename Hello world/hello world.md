@@ -12,7 +12,6 @@ This seems obvious, since all languages are different, but when talking about JS
 there's a couple of ways you can go about actually using it.
 
 I will try to keep files in a way that you can use them in any web-browser.
-
 Additionally, I will be coding in WebStorm.
 
 ##The learning journal.
@@ -36,3 +35,6 @@ And invoked it in the HTML page inside the body (and made the background black):
 
 I also learnt that I can use node.js to execute the JavaScript code independently.
 Cool.
+
+I won't include the node.js information in this project.
+But I might talk about it every now on then.
