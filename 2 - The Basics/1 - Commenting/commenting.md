@@ -1,4 +1,4 @@
-#Comments...
+# Comments...
 
 Comments in any programming language are key to make your code understandable.
 It's necessary to keep your code readable for multiple reasons:
@@ -7,7 +7,7 @@ It's necessary to keep your code readable for multiple reasons:
 * You might want other people to read your code.
 * It looks cool. (Text editors with colors are extra cool.)
 
-#The Learning journal
+# The Learning journal
 
 To make comments in JavaScript:
 

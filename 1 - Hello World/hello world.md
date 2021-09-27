@@ -1,11 +1,11 @@
-#Hello world.
+# Hello world.
 
 Welcome to my first learning journal for JavaScript.
 I took a course some time ago for JavaScript but to be honest I didn't put the interest necessary to learn it.
 
 So to keep myself on track this time, I want to kind of journal everything together.
 
-##First part: The hello world.
+## First part: The hello world.
 
 JavaScript's hello world is... Different from other languages.
 This seems obvious, since all languages are different, but when talking about JS,
@@ -14,7 +14,7 @@ there's a couple of ways you can go about actually using it.
 I will try to keep files in a way that you can use them in any web-browser.
 Additionally, I will be coding in WebStorm.
 
-##The learning journal.
+## The learning journal.
 
 All the docs from this project regarding learning processes will have this section.
 In this section I will include what I learnt.
